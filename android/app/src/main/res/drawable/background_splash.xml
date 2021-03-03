@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:drawable="@drawable/ic_group_1413"/>-->
+
+<!--    <item-->
+<!--        android:height="126dp"-->
+<!--        android:width="292dp"-->
+<!--        android:drawable="@drawable/logo_k"-->
+<!--        android:gravity="center" />-->
+
+</layer-list>
